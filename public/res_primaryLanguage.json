@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Slava Makeev. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello there!",
+      "description": "👋 I'm Slava Makeev. Software Developer inspired by efficient communication and problem solving. I'm a strong believer that communication is the key to solving most of our problems, so I'm doing my best to improve communication between people and servers!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",

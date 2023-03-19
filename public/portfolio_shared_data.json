@@ -1,17 +1,17 @@
 {
     "basic_info": {
       "name": "Slava Makeev",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Developer specialized in back-end development" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/S-Makeev",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/slava-makeev/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
